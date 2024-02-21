@@ -1,0 +1,25 @@
+#h2{
+    color: red;
+}
+h1,h2{
+    display: inline-block;
+
+
+}
+h3{
+    font-size: medium;
+    margin-top: 0px;
+    font-weight: 10;
+}
+.image{
+    width: 4px;
+    height: 10px;
+}
+/* input.image{
+    background-image:url(image/location.png);
+} */
+
+
+
+
+
